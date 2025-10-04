@@ -1,3 +1,5 @@
+![Netflix Project Screenshot](images/logo.png)
+
 # 🎬 Movie Data Analysis Project (iScale Movies)
 
 This project analyzes a movie dataset (`moviedb.csv`) to explore **trends, popularity, genres, and voting patterns** using Python libraries like **Pandas**, **Matplotlib**, and **Seaborn**.
