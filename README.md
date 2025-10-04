@@ -1,4 +1,4 @@
-![Netflix Project Screenshot](images/logo.png)
+![Netflix Project Screenshot](logo.png)
 
 # 🎬 Movie Data Analysis Project (iScale Movies)
 
